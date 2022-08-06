@@ -8,7 +8,7 @@ public class HelloRestController {
 	
  @RequestMapping("/")
  
-  public String index() {
+  public String myIndex() {
 	 
 	 return "Hello from Bridelabz ";
 
